@@ -27,10 +27,10 @@ Model Parameters:
 Model Results:
     * Balanced Acurracy Score: 64%
 
-   Image 1: Naive Random Oversampling Confusion Matrix
-  <img width="345" alt="image 1" src="https://user-images.githubusercontent.com/79999761/130372594-7308fd60-a01f-455e-ba36-d646cba6c810.png">
+   * Image 1: Naive Random Oversampling Confusion Matrix
+ <img width="345" alt="image 1" src="https://user-images.githubusercontent.com/79999761/130372594-7308fd60-a01f-455e-ba36-d646cba6c810.png">
 
-   Image 1.2: Naive Random Oversampling Classification Report
+   * Image 1.2: Naive Random Oversampling Classification Report
  <img width="967" alt="naive oversampling classification" src="https://user-images.githubusercontent.com/79999761/130372600-16b5e8cb-c0a9-44f8-843b-d1a451f2db8c.png">
    
 ## Model 2: SMOTE (Synthetic Minority Oversampling Technique) Oversampling model
