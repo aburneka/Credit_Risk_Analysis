@@ -38,8 +38,10 @@ Model Parameters:
    * Random State: 1
 Model Results:
    * Balanced Acurracy Score: 66%
+   
     <img width="342" alt="SMOTE oversampling" src="https://user-images.githubusercontent.com/79999761/130372729-8cbacb18-1b7a-49b5-83ea-706ed83b9872.png">
    Image 2.1: SMOTE Sampling Confusion Matrix
+   
    <img width="955" alt="SMOTE Class" src="https://user-images.githubusercontent.com/79999761/130372746-d9c35d3e-944d-4ca2-a874-588cd6ff7dca.png">
     Image 2.2: SMOTE Sampling Classification Report
 
