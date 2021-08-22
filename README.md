@@ -27,11 +27,12 @@ Model Parameters:
 Model Results:
     * Balanced Acurracy Score: 64%
 
-   <img width="345" alt="image 1" src="https://user-images.githubusercontent.com/79999761/130372594-7308fd60-a01f-455e-ba36-d646cba6c810.png">
 Image 1: Naive Random Oversampling Confusion Matrix
-   <img width="967" alt="naive oversampling classification" src="https://user-images.githubusercontent.com/79999761/130372600-16b5e8cb-c0a9-44f8-843b-d1a451f2db8c.png">
-   Image 1.2: Naive Random Oversampling Classification Report
+   <img width="345" alt="image 1" src="https://user-images.githubusercontent.com/79999761/130372594-7308fd60-a01f-455e-ba36-d646cba6c810.png">
 
+Image 1.2: Naive Random Oversampling Classification Report
+   <img width="967" alt="naive oversampling classification" src="https://user-images.githubusercontent.com/79999761/130372600-16b5e8cb-c0a9-44f8-843b-d1a451f2db8c.png">
+   
 ## Model 2: SMOTE (Synthetic Minority Oversampling Technique) Oversampling model
 Model Parameters:
    * Model: imblearn SMOTE
@@ -39,11 +40,12 @@ Model Parameters:
 Model Results:
    * Balanced Acurracy Score: 66%
    
-    <img width="342" alt="SMOTE oversampling" src="https://user-images.githubusercontent.com/79999761/130372729-8cbacb18-1b7a-49b5-83ea-706ed83b9872.png">
    Image 2.1: SMOTE Sampling Confusion Matrix
+   <img width="342" alt="SMOTE oversampling" src="https://user-images.githubusercontent.com/79999761/130372729-8cbacb18-1b7a-49b5-83ea-706ed83b9872.png">
    
+   Image 2.2: SMOTE Sampling Classification Report
    <img width="955" alt="SMOTE Class" src="https://user-images.githubusercontent.com/79999761/130372746-d9c35d3e-944d-4ca2-a874-588cd6ff7dca.png">
-    Image 2.2: SMOTE Sampling Classification Report
+    
 
 ## Model 3: Cluster Centroids Undersampling model
 
@@ -52,11 +54,13 @@ Model Parameters:
     * Random State: 1
 Model Results:
     * Balanced Acurracy Score: 54%
-   <img width="353" alt="Cluster Centroids Undersampling confusion" src="https://user-images.githubusercontent.com/79999761/130372756-3829a893-b8eb-4bad-a520-6ffff6dbd618.png">
+    
    Image 3.1: Cluster Centroids Sampling Confusion Matrix
- 
-   <img width="992" alt="Cluster Centroids Sampling Class" src="https://user-images.githubusercontent.com/79999761/130372764-8efd719d-c3d2-44c2-93ca-2322acf75c59.png">
+   <img width="353" alt="Cluster Centroids Undersampling confusion" src="https://user-images.githubusercontent.com/79999761/130372756-3829a893-b8eb-4bad-a520-6ffff6dbd618.png">
+   
    Image 3.2: Cluster Centroids Sampling Classification Report
+   <img width="992" alt="Cluster Centroids Sampling Class" src="https://user-images.githubusercontent.com/79999761/130372764-8efd719d-c3d2-44c2-93ca-2322acf75c59.png">
+   
 
 ## Model 4: SMOTEENN (SMOTE and Edited Nearest Neighbors) Combination Sampling model
 Model Parameters:
@@ -65,11 +69,12 @@ Model Parameters:
 Model Results:
    * Balanced Acurracy Score: 67%
    
-   <img width="355" alt="SMOTEENN Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372778-efe5b9fb-e6f6-4098-99e6-be045ae2b51e.png">
    Image 4.1: SMOTEENN Sampling Confusion Matrix
+   <img width="355" alt="SMOTEENN Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372778-efe5b9fb-e6f6-4098-99e6-be045ae2b51e.png">
    
-   <img width="938" alt="SMOTEEN Classification" src="https://user-images.githubusercontent.com/79999761/130372782-a0b3f573-1623-440e-abee-053049384f2b.png">
    Image 4.2: SMOTEENN Sampling Classification Report
+   <img width="938" alt="SMOTEEN Classification" src="https://user-images.githubusercontent.com/79999761/130372782-a0b3f573-1623-440e-abee-053049384f2b.png">
+   
 
 ## Model 5: Balanced Random Forest Classifier model
 Model Parameters:
@@ -78,11 +83,12 @@ Model Parameters:
 Model Results:
    * Balanced Acurracy Score: 79%
    
-   <img width="342" alt="Balanced random Forest Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372796-6daff3a2-58f3-4909-9608-65466aefdc5f.png">
    Image 5.1: Balanced Random Forest Classifier Confusion Matrix
+   <img width="342" alt="Balanced random Forest Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372796-6daff3a2-58f3-4909-9608-65466aefdc5f.png">
    
-   <img width="931" alt="Balanced Random Forest Classifications" src="https://user-images.githubusercontent.com/79999761/130372802-07d774ba-aad2-4e3c-a800-0c50c53ab411.png">
    Image 5.2: Balanced Random Forest Classifier Classification Report
+   <img width="931" alt="Balanced Random Forest Classifications" src="https://user-images.githubusercontent.com/79999761/130372802-07d774ba-aad2-4e3c-a800-0c50c53ab411.png">
+   
 
 ## Model 6: Easy Ensemble AdaBoost Classifier model
 Model Parameters:
@@ -91,13 +97,12 @@ Model Parameters:
 Model Results:
    * Balanced Acurracy Score: 93%
    
-   <img width="351" alt="Easy Ensemble AdaBoost Classifier Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372826-cf4f89dd-9bac-46df-80e8-87eec13ec8ed.png">
    Image 6.1: Easy Ensemble AdaBoost Classifier Confusion Matrix
+   <img width="351" alt="Easy Ensemble AdaBoost Classifier Confusion Matrix" src="https://user-images.githubusercontent.com/79999761/130372826-cf4f89dd-9bac-46df-80e8-87eec13ec8ed.png">
    
-   <img width="953" alt="Easy Ensemble AdaBoost Classifications" src="https://user-images.githubusercontent.com/79999761/130372830-26a6beea-4e85-43d5-a6d4-0257313b0ee4.png">
    Image 6.2: Easy Ensemble AdaBoost Classifier Classification Report
-
-## <img width="345" alt="image 1" src="https://user-images.githubusercontent.com/79999761/130372588-5e10977d-993f-4630-8eeb-eae8884d3e81.png">
+   <img width="953" alt="Easy Ensemble AdaBoost Classifications" src="https://user-images.githubusercontent.com/79999761/130372830-26a6beea-4e85-43d5-a6d4-0257313b0ee4.png">
+   
 
 ## Conclusion
 
